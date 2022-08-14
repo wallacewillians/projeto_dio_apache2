@@ -24,5 +24,5 @@ A execução desse Script irá realizar os procedimentos descritos abaixo:
 - O comando "cd /tmp" para entrar no diretório temporário.
 - O comando "wget https://github.com/denilsonbonatti/linux-site-dio/archive/refs/heads/main.zip" para realizar o download da aplicação.
 - O comando "unrar main.zip" para extrair a aplicação.
-- O comando "cd linux-site-dio-main" para entrar na pasta do arquivo extraido recém extraido.
-- O comando "cp -r * /var/www/html" para realizar a copia dos arquivos extraido para a pasta principal do Apache, dessa forma podendo utilizar a aplicação via Web.
+- O comando "cd linux-site-dio-main" para entrar na pasta do arquivo extraído recém extraido.
+- O comando "cp -r * /var/www/html" para realizar a copia dos arquivos extraído para a pasta principal do Apache, dessa forma podendo utilizar a aplicação via Web.

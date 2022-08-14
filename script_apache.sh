@@ -2,8 +2,8 @@
 
 echo "Atualizando servidor Ubuntu:"
 
-apt update -y
-apt upgrade -y
+apt-get update
+apt-get upgrade -y
 
 echo "Instalando o Apache2"
 
